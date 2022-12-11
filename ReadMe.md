@@ -1,4 +1,4 @@
-<h1><b>"Booking & Reservation Project"</b></h1>
+<h1 font color="black"><b>"Booking & Reservation Project"</b></h1>
 
 <h2>This project is for booking one room and breakfast at motel.</h2>
 
